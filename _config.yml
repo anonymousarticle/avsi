@@ -227,7 +227,7 @@ plugins:
   - jekyll-sitemap
 
 # Google Analytics
-google_analytics: G-Z3SDHB6RBP
+#google_analytics: G-Z3SDHB6RBP
 
 
 # Beautiful Jekyll / Dean Attali
